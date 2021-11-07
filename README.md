@@ -13,5 +13,5 @@ Demo: [https://superchat-demo.herokuapp.com/](https://superchat-demo.herokuapp.c
 - Run `npm run build` to create a production build
 
 ## UI
-<img src="https://github.com/hemil26/superchat/blob/master/public/images/sign-in-screen.jpg?raw=true" alt="website-image" />
-<img src="https://github.com/hemil26/superchat/blob/master/public/images/chat-room.jpg?raw=true" alt="website-image" />
+<img src="https://github.com/hemil26/superchat/blob/master/public/images/sign-in-screen.jpg" width="450" alt="website-image" />                                                 <img src="https://github.com/hemil26/superchat/blob/master/public/images/chat-room.jpg" width="450" alt="website-image" />
+
